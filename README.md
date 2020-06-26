@@ -1,2 +1,2 @@
-# basicblog
+# Bloggert
 A basic blog app
